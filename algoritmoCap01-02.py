@@ -1,3 +1,3 @@
 
-#Impreção de um texto simples
+#Impressão de um texto simples
 print("Bem vindo ao python !")
