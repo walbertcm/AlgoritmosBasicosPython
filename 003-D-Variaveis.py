@@ -1,5 +1,5 @@
 
-#Atribuição de variáveis
+#Atribuição de variáveis numericas
 #Tipo numerico Inteiro
 a = 10 
 b = 32222545
